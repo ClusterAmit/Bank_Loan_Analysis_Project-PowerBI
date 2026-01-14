@@ -36,5 +36,3 @@ This project presents a comprehensive Bank Loan Analysis dashboard built using P
 ## Use Case
 
 This project is suitable for data analysts, business analysts, and finance professionals seeking hands-on experience with Power BI and financial data analysis.
-
-Just let me know.
